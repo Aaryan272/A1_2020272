@@ -380,6 +380,7 @@ public class Main {
             if(query==7){
                 System.out.print("Enter Patient ID: ");
                 long AdID= input.nextLong();
+                continue;
 
             }
             if (query == 8) {
