@@ -93,7 +93,7 @@ public class Main {
         ArrayList<AddSlotForVaccination> Vaccination = new ArrayList<>();
         ArrayList<checkVaccinationStatus> status = new ArrayList<>();
         while (true) {
-            System.out.print("Enter query Number:");
+
             int query = input.nextInt();
             if (query == 1) {
                 System.out.print("Vaccine Name: ");
